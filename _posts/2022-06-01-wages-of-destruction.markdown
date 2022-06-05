@@ -4,6 +4,7 @@ title:  "Wages of Destruction"
 bookauthor:  "Adam Tooze"
 startdate: 2022-05-15
 date:   2022-06-01 09:02:00 -0700
+mode: "Audible audiobook"
 categories: books
 ---
 
@@ -40,3 +41,17 @@ Some things that stood out to me:
   despite the failing war effort out of fear for their personal positions were
   the Red Army to conquer Germany and the communist Soviet Union come to power
   in Germany.
+
+- The Soviet Union technologically outclassed the Wehrmacht on the Eastern
+  Front. This was a result of Stalin's succcessful rapid industrialization of
+  the country in the two decades since he came to power. For instance, the T34
+  was much more capable than German Panzers, and the Wermacht still depended on
+  horses to move much of their equipment on both fronts. The Soviet Union had
+  an advantage in both quality and quantity of armaments.
+
+- Foreign exchange was an important consideration through the buildup to the
+  war. Germany owed considerable repararations, depended on exports for foreign
+  exchange, and needed foreign exchange for a number of critical raw materials
+  that were not available domestically. Up through the later 1930s western
+  countries continued to provide Germany with raw materials through trade, even
+  though they were increasingly going towards rearmament.

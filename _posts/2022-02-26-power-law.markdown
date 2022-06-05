@@ -1,0 +1,9 @@
+---
+layout: none
+title:  "The Power Law: Venture Capital and the Making of the New Future"
+bookauthor:  "Sebastian Mallaby"
+startdate: 2022-02-18
+date:   2022-02-26
+mode: "Libby audiobook"
+categories: books
+---

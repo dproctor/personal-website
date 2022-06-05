@@ -1,0 +1,11 @@
+---
+layout: none
+title:  "The Upswing: How America Came Together a Century Ago and How We Can Do It Again"
+bookauthor:  "Robert D. Putnam"
+startdate:
+date: 2021-04-05
+mode: "Libby audiobook"
+categories: books
+---
+
+Recommendation from Zack Rosen.

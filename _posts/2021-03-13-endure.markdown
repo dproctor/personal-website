@@ -1,0 +1,10 @@
+---
+layout: none
+title:  "Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance"
+bookauthor:  "Alex Hutchinson"
+startdate:
+date: 2021-03-13
+mode: "Libby audiobook"
+categories: books
+---
+

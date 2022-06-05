@@ -1,0 +1,61 @@
+---
+layout: none
+title:  "Caste"
+bookauthor:  "Isabel Wilkerson"
+startdate:
+date: 2021-03-13
+mode: "Libby audiobook"
+categories: books
+---
+
+I thought this book was terrible. It was unclear to me what she was trying to
+say. It seemed that the central thesis of the book was that it was somehow
+illuminating to call race in America "caste" and to use that to tie it to the
+Indian caste system and Nazi racial theories. However, she doesn't really argue
+the point at length, and the book really seems to be a long list of well-known
+American racial injustices, with occasional references to the Indian, Nazi
+examples.
+
+Two issues with the thesis of the book:
+
+1) Just relabeling race as "caste" and replacing "white people" with "people of
+the dominant caste" doesn't add anything to the conversation. Maybe you could
+make an argument that doing so is a literary technique, comparable to
+Kafka/Nabokov defamiliarization, but I don't think that's the intention, nor is
+it successful. She doesn't provide a super clear definition of caste, or how it
+might differ from the common understanding of racism in America, but I think
+it's pretty clear that all the examples she gives fit exactly in the common
+conception of American racism. Yes, racism means that you think that one group
+is better than another. Yes, it's stupid and arbitrary. But what does calling
+it caste actually achieve, other than conflating American racism with other,
+distinct traditions of prejudice, whose differences with American racism are
+more prominent than their similarities, which leads us to 
+
+2) Nazi persecution of Jews strikes me as a crazy example to compare against
+American persecution of blacks. How much can really be learned from the
+comparison to a subgroup that, until the decade before WWII, constituted a
+significant fraction of German intellectual, economic and political leading
+figures, and were widely accepted as a part of the German social elite.
+Obviously there's a long standing history of anti-Semitism in Germany (and
+Europe), but it was perhaps _because_ of the group's success and distinction
+that they were susceptible to becoming targets of public condemnation. I feel
+like that the Jewish experience in the Third Reich is more clearly seen as a
+opportunistic scapegoating that took advantage of longstanding anti-elitist and
+racial resentments than anything resembling a caste system.
+
+I know less about the Indian caste system,
+but there's no deep exploration of it in the book, and I get the sense that the
+intricacies of it are white-washed in its identification with the American
+Black experience. Also, South African apartheid is mentioned off-hand a few
+times in the book, but why isn't that a principal focus, when it seems like a
+much clearer analogue than either the Nazi or Indian examples. Also, I thought
+that the personal anecdotes she reported (experience de-boarding a flight, poor
+service in a restaurant, uncooperative then-friendly plumber) really didn't
+help to build her case. While all of those certainly could have been due to the
+perpetrator's racism, it's also totally imaginable that these people had
+different reasons for treating her poorly (because she's a woman, because they
+were tired and working long shifts in tiring jobs, because she wasn't friendly,
+etc.) and a lack of emotional curiosity about those people detracts from the
+credibility of her examples.
+
+I'd love to understand why the book has received such universal praise.
