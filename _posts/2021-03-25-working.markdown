@@ -1,0 +1,13 @@
+---
+layout: none
+title:  "Working: Researching, Interviewing, Writing"
+bookauthor:  "Robert A. Caro"
+startdate:
+date: 2021-03-25
+mode: "Libby audiobook"
+categories: books
+---
+
+Like everything from Caro, super insightful. Loved the description of how
+someone can build his entire life (and that of his wife) around a single cause,
+i.e. exploring the life and times of LBJ.

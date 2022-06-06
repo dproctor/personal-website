@@ -45,15 +45,6 @@ layout: none
 - Private Virtues, Public Vices: Philanthropy and Democratic Equality (Emma
   Saunders-Hastings)
 - Life Together (Dietrich Bonhoeffer)
-- The Gun, the Ship, and the Pen: Warfare, Constitutions, and the Making of the
-  Modern World (Linda Colley)
-  - I already read this. I was unimpressed; started off strong but then
-    proceeded to veer all over the place. Felt redundant and largely
-    irrelevant.
-- Lying for Money: How Legendary Frauds Reveal the Workings of Our World (Dan Davies)
-  - I read this, and enjoyed it quite a bit. Insightful review of a number of
-    representative financial crimes. Helped me understand common patterns. Felt
-    relevant as I was thinking about fraud at Stripe.
 - The Woman Behind the New Deal: The Life of Frances Perkins, FDR'S Secretary
   of Labor and His Moral Conscience (Kirstin Downey)
 - Bowling Alone: The Collapse and Revival of American Community (Robert D. Putnam)
@@ -63,11 +54,6 @@ layout: none
 - The Optimist's Telescope: Thinking Ahead in A Reckless Age (Bina Venkataraman)
 - The Inimitable Jeeves (PG Wodehouse)
 - Classic Indian Cooking (Julie Sahni)
-- Deep Work (Cal Newport)
-  - Should add other books here, including "A World without Email". Really
-    enjoyed this. Thought it paired compelling framework for thinking about the
-    role of deep work, along with practical tips on making space for it in my
-    life.
 - Varieties of religious experience (William James)
 - The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing
   Personal (M. Mitchell Waldrop)
@@ -75,25 +61,14 @@ layout: none
   L. Marohn Jr.)
 - Likewar: The Weaponization of Social Media (Emerson T. Brooking and P.W.
   Singer). Recommended by Dr. Asish Shah on Ezra Klein show.
-- Why Zebras Don't Get Ulcers (Robert Sapolsky)
-  - Really important book. Biological case for social equality, communitarian
-    policy.
-  - Discussion of inequality is at the end of the book (chapter 17); high
-    social inequality is bad for everyone (the sum of us)
-  - Utility of religion for stress management
-  - Chapter 18 is important; stress management techniques and how they impact
-    glucocorticoid levels Successful aging
-  - Finished on 2021-04-05
 - Before the Storm: Barry Goldwater and the Unmaking of the American Consensus
   (Rick Perlstein). Recommendation from Zack Rosen.
 - Payments Systems in the U.S. (Carol Coye Benson). Recommended reading for new
   employees at Stripe.
 - Real Analysis: A Long-Form Mathematics Textbook (Jay Cummings)
-- [Are clothes modern? An essay on contemporary apparel](https://www.moma.org/documents/moma_catalogue_3159_300063439.pdf) (Bernard Rudofsky)
-- Working: Researching, Interviewing, Writing (Robert A. Caro)
-  - Already read this. Like everything from Caro, super insightful. Loved the
-    description of how someone can build his entire life (and that of his wife)
-    around a single cause, i.e. exploring the life and times of LBJ.
+- [Are clothes modern? An essay on contemporary
+  apparel](https://www.moma.org/documents/moma_catalogue_3159_300063439.pdf)
+  (Bernard Rudofsky)
 - Rethinking America's Highways: A 21st-Century Vision for Better
   Infrastructure (Robert W. Poole)
 - [Mortality and morbidity in the 21st
@@ -119,6 +94,8 @@ layout: none
 - Hombres de maíz (Miguel Ángel Asturias)
 - Wanderlust: A History of Walking (Rebecca Solnit)
 - Gene Machine: The Race to Decipher the Secrets of the Ribosome (Venki Ramakrishnan)
+- The Bond King: How One Man Made a Market, Built an Empire, and Lost It All
+  (Mary Childs)
 
 ### Articles
 

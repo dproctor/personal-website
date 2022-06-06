@@ -1,0 +1,13 @@
+---
+layout: none
+title:  "Deep Work "
+bookauthor:  "Cal Newport"
+startdate:
+date: 2021-05-03
+mode: "Libby audiobook"
+categories: books
+---
+
+I really enjoyed this. Thought it paired compelling framework for thinking
+about the role of deep work, along with practical tips on making space for it
+in my life.
