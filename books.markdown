@@ -96,13 +96,28 @@ layout: none
 - Gene Machine: The Race to Decipher the Secrets of the Ribosome (Venki Ramakrishnan)
 - The Bond King: How One Man Made a Market, Built an Empire, and Lost It All
   (Mary Childs)
+- The Origins of Totalitarianism (Hannah Arendt)
+- Black Reconstruction in America: An Essay Toward a History of the Part Which
+  Black Folk Played in the Attempt to Reconstruct Democracy in America,
+  1860–1880 (W. E. B. Du Bois)
+- The Listening Book (by W.A. Mathieu)
+  - Pulled from <https://sive.rs/book>
+- Open Borders (Bryan Caplan)
+  - Pulled from <https://sive.rs/book>
+- How Buildings Learn (Stewart Brand)
+  - Pulled from <https://sive.rs/book>
+- Playful Parenting (Lawrence Cohen)
+  - Pulled from <https://sive.rs/book>
+- On Writing Well (William Zinsser)
+  - Pulled from <https://sive.rs/book>
+- E-Myth Revisited (Michael Gerber)
+  - Pulled from <https://sive.rs/book>
 
 ### Articles
 
 - <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/>
 - [America Without God](https://www.theatlantic.com/magazine/archive/2021/04/america-politics-religion/618072/)
 - [The 2020 McKinsey Global Payments Report](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf)
-
 
 ### Academic papers
 
@@ -122,8 +137,9 @@ layout: none
   Michael Carbin)
 - [High-Performance Large-Scale Image Recognition Without
   Normalization](https://arxiv.org/abs/2102.06171) (Andrew Brock, Soham De,
-  Samuel L. Smith, Karen Simonyan
-)
+  Samuel L. Smith, Karen Simonyan)
+- [Deep Learning Opacity in Scientific
+  Discovery](https://arxiv.org/abs/2206.00520) (Eamon Duede)
 
 ## Previous
 
