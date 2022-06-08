@@ -3,12 +3,18 @@ layout: none
 title:  "Dominion: How the Christian Revolution Remade the World"
 bookauthor:  "Tom Holland"
 startdate: 2022-05-30
-date:
+date: 2022-06-07
 mode: "Audible audiobook"
 categories: books
+rating: 3
 ---
 
 Strange history of the Christian world. Very cursory, which is probably
 necessary to cover such a broad topic. Treats people from where there come
 from, doesn't try to put a modern perspecitve on it. Strangely barely touches
 on the life and times of Jesus.
+
+Tries to cover so much that it can only skim over everything. Overall, makes a
+decent case for the modern world being fundamentally built on Christian
+foundations, and for Christian ideology being our society's "default", though I
+thought that most people took that for granted.
