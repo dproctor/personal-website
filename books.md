@@ -121,6 +121,7 @@ layout: none
 
 ### Academic papers
 
+- [Techniques for training large neural networks](https://openai.com/blog/techniques-for-training-large-neural-networks/)
 - [A Universal Law of Robustness via Isoperimetry](https://arxiv.org/pdf/2105.12806.pdf)
 - [The Promises and Dangers of Direct Democracy: A Historical Comparison](https://journals.openedition.org/siecles/1072#abstract-1072-en)
 - [Thinking Like Transfomers](https://arxiv.org/pdf/2106.06981.pdf)
