@@ -1,0 +1,18 @@
+---
+layout: none
+title:  "Talent: How to Identify Energizers, Creatives, and Winners Around the World"
+bookauthor:  "Tyler Cowen"
+startdate: 
+date:   2022-06-12
+mode: "Audible audiobook"
+categories: books
+---
+
+Pretty superficial treatment of how to hire for non-technical roles.
+It asserts, without any strong quantitative evidence, that certain hiring strategies are more effective at identifying talented individuals.
+One of its central hypotheses, that I actually agree with, is that there are lots of people out there with hidden, undiscovered talents and that this potentially presents opportunities for employers to identify talent missed by others.
+Another aspect of good interviews that the authors push is that it's about getting candidates out of their default, planned answers, into a more dynamic, organic conversations, and that building trust with the candidate is a critical aspect of this.
+
+I appreciated the discussion of creating talent, and in particular, the value of people being exposed to world class talent in their field.
+The authors claim that this exposure is the best argument for going to a top, name brand university, where the probably lower quality of instruction is compensated for by the unique value of seeing how top researchers work, and to build the confidence of students to feel that they can compete/contribute at the top level.
+On the same theme, the authors argue that it can be incredibly value to give grants for young people to travel to the places and communities where the best work in their field is happening.
