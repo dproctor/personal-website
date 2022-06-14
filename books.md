@@ -112,6 +112,13 @@ layout: none
   - Pulled from <https://sive.rs/book>
 - E-Myth Revisited (Michael Gerber)
   - Pulled from <https://sive.rs/book>
+- Amusing Ourselves to Death (Neil Postman)
+  Recommended by Ezra Klein on 2022-06-14 Ask Me Anything.
+  Published in 1985, and sounds thematically similar to "Infinite Jest".
+  I wonder if it was an influence on David Foster Wallace?
+  I placed a hold on an e-book from SFPL; should be available in three weeks.
+- Damnation Spring (Ash Davidson)
+  - Recommended by Caitlin.
 
 ### Articles
 
