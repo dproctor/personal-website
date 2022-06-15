@@ -1,3 +1,4 @@
+---
 layout: none
 title:  "Klara and the Sun"
 bookauthor:  "Kazuo Ishiguro"
