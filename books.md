@@ -119,6 +119,8 @@ layout: none
   I placed a hold on an e-book from SFPL; should be available in three weeks.
 - Damnation Spring (Ash Davidson)
   - Recommended by Caitlin.
+- Shutdown: How Covid Shook the World's Economy (Adam Tooze)
+- Super-Infinite: The Transformations of John Donne (Katherine Rundell)
 
 ### Articles
 
@@ -131,7 +133,7 @@ layout: none
 - [Techniques for training large neural networks](https://openai.com/blog/techniques-for-training-large-neural-networks/)
 - [A Universal Law of Robustness via Isoperimetry](https://arxiv.org/pdf/2105.12806.pdf)
 - [The Promises and Dangers of Direct Democracy: A Historical Comparison](https://journals.openedition.org/siecles/1072#abstract-1072-en)
-- [Thinking Like Transfomers](https://arxiv.org/pdf/2106.06981.pdf)
+- [Thinking Like Transformers](https://arxiv.org/pdf/2106.06981.pdf)
 - [Reformers](https://openreview.net/forum?id=rkgNKkHtvB)
 - [Decimeter level localization using WiFi](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p269.pdf)
 - [F1 Query: Declarative Querying at Scale](https://research.google/pubs/pub47224.pdf)
@@ -158,4 +160,3 @@ layout: none
   </a> ({{ post.bookauthor }})
 </li>
 {% endfor %}
-
