@@ -9,9 +9,6 @@ layout: none
 ### Books
 
 - The Warmth of Other Suns (Isabel Wilkerson)
-- The Future of Money: How the Digital Revolution Is Transforming Currencies
-  and Finance (Eswar s. Prasad). Recommended by Adam Touze on Ezra Klein
-  (2022-03-01).
 - The End of the End of History: Politics in the Twenty-First Century (Alex
   Hochuli).  Recommended by Adam Touze on Ezra Klein (2022-03-01).
 - [First Draft of a Report on the
@@ -47,7 +44,6 @@ layout: none
 - Life Together (Dietrich Bonhoeffer)
 - The Woman Behind the New Deal: The Life of Frances Perkins, FDR'S Secretary
   of Labor and His Moral Conscience (Kirstin Downey)
-- Bowling Alone: The Collapse and Revival of American Community (Robert D. Putnam)
 - Deaths of Despair and the Future of Capitalism (Angus Deaton and Anne Case)
 - Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the
   World (Cade Metz)
@@ -94,8 +90,6 @@ layout: none
 - Hombres de maíz (Miguel Ángel Asturias)
 - Wanderlust: A History of Walking (Rebecca Solnit)
 - Gene Machine: The Race to Decipher the Secrets of the Ribosome (Venki Ramakrishnan)
-- The Bond King: How One Man Made a Market, Built an Empire, and Lost It All
-  (Mary Childs)
 - The Origins of Totalitarianism (Hannah Arendt)
 - Black Reconstruction in America: An Essay Toward a History of the Part Which
   Black Folk Played in the Attempt to Reconstruct Democracy in America,
