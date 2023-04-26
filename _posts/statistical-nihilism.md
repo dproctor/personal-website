@@ -24,3 +24,6 @@ date:
   lowers the crediibilty of statistics overall. Gate keeps many people from
   contributing. Ideally, qualitative/quantitative should be in conversation,
   part of same public debate even if not articulated by the same people.
+- examples
+  - efficient market hypothesis
+  - nutrition
