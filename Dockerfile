@@ -17,20 +17,16 @@ COPY . .
 RUN jekyll build
 
 # Use Nginx image to serve the site
-FROM nginx:alpine
-
-# Remove the default Nginx configuration file
-RUN rm /etc/nginx/conf.d/default.conf
-
-# Copy a new configuration file from the current directory
-COPY nginx.conf /etc/nginx/conf.d
+FROM caddy:alpine
 
 # Copy the built site from the builder stage
-COPY --from=builder /usr/src/app/_site /usr/share/nginx/html
+COPY --from=builder /usr/src/app/_site /srv
 
-# Expose port 8080
-EXPOSE 8080
+# Copy Caddyfile
+COPY Caddyfile /etc/caddy/Caddyfile
 
-# Start Nginx and keep it running
-CMD ["nginx", "-g", "daemon off;"]
-# CMD ["nginx", "-t"]
+# Expose HTTP and HTTPS ports
+EXPOSE 80 443
+
+# Run Caddy
+CMD ["caddy", "run", "--config", "/etc/caddy/Caddyfile", "--adapter", "caddyfile"]
