@@ -30,12 +30,8 @@ layout: none
   show (2022-02-15)
 - Siblings Without Rivalry: How to Help Your Children Live Together So You Can
   Live Too (Adele Faber, Elaine Mazlish). From Ezra Klein show (2022-02-15)
-- The Eighth Day of Creation: Makes of the Revolution in Biology (Horace
-  Freeland Judson).
 - The Machinery of Life (David S. Goodsell)
-- A Computer Scientist's Guide to Cell Biology (William W. Cohen)
 - Veblen: The Making of an Economist Who Unmade Economics (Charles Camic)
-- Discourse on Inequality (Jean-Jacques Rousseau)
 - A Book of Americans (Rosemary Benét)
 - The Culture of Narcissism: American Life in an Age of Diminishing
   Expectations (Christopher Lasch)
@@ -50,15 +46,12 @@ layout: none
 - The Optimist's Telescope: Thinking Ahead in A Reckless Age (Bina Venkataraman)
 - The Inimitable Jeeves (PG Wodehouse)
 - Classic Indian Cooking (Julie Sahni)
-- Varieties of religious experience (William James)
 - The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing
   Personal (M. Mitchell Waldrop)
 - Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity (Charles
   L. Marohn Jr.)
 - Likewar: The Weaponization of Social Media (Emerson T. Brooking and P.W.
   Singer). Recommended by Dr. Asish Shah on Ezra Klein show.
-- Before the Storm: Barry Goldwater and the Unmaking of the American Consensus
-  (Rick Perlstein). Recommendation from Zack Rosen.
 - Payments Systems in the U.S. (Carol Coye Benson). Recommended reading for new
   employees at Stripe.
 - Real Analysis: A Long-Form Mathematics Textbook (Jay Cummings)
@@ -80,11 +73,8 @@ layout: none
   Grant (Jonathan Peter Spiro)
 - On Bullshit (Harry G. Frankfurt). Read this previously, but don't remember it
   very well. Super short.
-- The Federalist Papers (Alexander Hamilton, James Madison, John Jay)
 - The Company They Keep: C.S. Lewis and J.R.R. Tolkien as Writers in Community
   (Diana Pavlac Glyer).
-- Fiasco: The American Military Adventure in Iraq (Thomas E. Ricks).
-  Recommended by Kayvon.
 - All Quiet on the Western Front (Erich Maria Remarque)
 - Fifth Sun: A New History of the Aztecs (Camilla Townsend)
 - Hombres de maíz (Miguel Ángel Asturias)
@@ -114,7 +104,6 @@ layout: none
 - Damnation Spring (Ash Davidson)
   - Recommended by Caitlin.
 - Shutdown: How Covid Shook the World's Economy (Adam Tooze)
-- Super-Infinite: The Transformations of John Donne (Katherine Rundell)
 
 ### Articles
 
@@ -146,6 +135,18 @@ layout: none
   Discovery](https://arxiv.org/abs/2206.00520) (Eamon Duede)
 
 ## Previous
+
+- The Eighth Day of Creation: Makes of the Revolution in Biology (Horace
+  Freeland Judson).
+- Fiasco: The American Military Adventure in Iraq (Thomas E. Ricks).
+  Recommended by Kayvon.
+- Super-Infinite: The Transformations of John Donne (Katherine Rundell)
+- The Federalist Papers (Alexander Hamilton, James Madison, John Jay)
+- Before the Storm: Barry Goldwater and the Unmaking of the American Consensus
+  (Rick Perlstein). Recommendation from Zack Rosen.
+- A Computer Scientist's Guide to Cell Biology (William W. Cohen)
+- Discourse on Inequality (Jean-Jacques Rousseau)
+- Varieties of religious experience (William James)
 
 {% for post in site.posts %}
 <li>
