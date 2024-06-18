@@ -75,7 +75,6 @@ layout: none
   very well. Super short.
 - The Company They Keep: C.S. Lewis and J.R.R. Tolkien as Writers in Community
   (Diana Pavlac Glyer).
-- All Quiet on the Western Front (Erich Maria Remarque)
 - Fifth Sun: A New History of the Aztecs (Camilla Townsend)
 - Hombres de maíz (Miguel Ángel Asturias)
 - Wanderlust: A History of Walking (Rebecca Solnit)
@@ -96,14 +95,8 @@ layout: none
   - Pulled from <https://sive.rs/book>
 - E-Myth Revisited (Michael Gerber)
   - Pulled from <https://sive.rs/book>
-- Amusing Ourselves to Death (Neil Postman)
-  Recommended by Ezra Klein on 2022-06-14 Ask Me Anything.
-  Published in 1985, and sounds thematically similar to "Infinite Jest".
-  I wonder if it was an influence on David Foster Wallace?
-  I placed a hold on an e-book from SFPL; should be available in three weeks.
-- Damnation Spring (Ash Davidson)
-  - Recommended by Caitlin.
 - Shutdown: How Covid Shook the World's Economy (Adam Tooze)
+- Brave New World (Aldous Huxley)
 
 ### Articles
 
@@ -147,6 +140,13 @@ layout: none
 - A Computer Scientist's Guide to Cell Biology (William W. Cohen)
 - Discourse on Inequality (Jean-Jacques Rousseau)
 - Varieties of religious experience (William James)
+- Amusing Ourselves to Death (Neil Postman)
+  Recommended by Ezra Klein on 2022-06-14 Ask Me Anything.
+- Damnation Spring (Ash Davidson)
+  - Recommended by Caitlin.
+- The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy
+  Self (Michael Easter)
+- All Quiet on the Western Front (Erich Maria Remarque)
 
 {% for post in site.posts %}
 <li>
