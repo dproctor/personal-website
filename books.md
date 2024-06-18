@@ -96,7 +96,6 @@ layout: none
 - E-Myth Revisited (Michael Gerber)
   - Pulled from <https://sive.rs/book>
 - Shutdown: How Covid Shook the World's Economy (Adam Tooze)
-- Brave New World (Aldous Huxley)
 
 ### Articles
 
@@ -147,6 +146,11 @@ layout: none
 - The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy
   Self (Michael Easter)
 - All Quiet on the Western Front (Erich Maria Remarque)
+- Brave New World (Aldous Huxley)
+    - Reread this after reading it ~10 years ago. Didn't find it very
+      insightful, though the central thesis is interesting - how people have
+      essentially enslaved themselves by their commitment to entertainment,
+      cheap perks of paritcular privileges.
 
 {% for post in site.posts %}
 <li>
