@@ -8,6 +8,8 @@ layout: none
 
 ### Books
 
+- The Warburgs: The Twentieth-Century Odyssey of a Remarkable Jewish Family
+  (Ron Chernow)
 - The Warmth of Other Suns (Isabel Wilkerson)
 - The End of the End of History: Politics in the Twenty-First Century (Alex
   Hochuli).  Recommended by Adam Touze on Ezra Klein (2022-03-01).
