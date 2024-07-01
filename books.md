@@ -42,7 +42,6 @@ layout: none
 - Life Together (Dietrich Bonhoeffer)
 - The Woman Behind the New Deal: The Life of Frances Perkins, FDR'S Secretary
   of Labor and His Moral Conscience (Kirstin Downey)
-- Deaths of Despair and the Future of Capitalism (Angus Deaton and Anne Case)
 - Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the
   World (Cade Metz)
 - The Optimist's Telescope: Thinking Ahead in A Reckless Age (Bina Venkataraman)
@@ -98,6 +97,7 @@ layout: none
 - E-Myth Revisited (Michael Gerber)
   - Pulled from <https://sive.rs/book>
 - Shutdown: How Covid Shook the World's Economy (Adam Tooze)
+- The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind (Dan Davies)
 
 ### Articles
 
@@ -153,6 +153,9 @@ layout: none
       insightful, though the central thesis is interesting - how people have
       essentially enslaved themselves by their commitment to entertainment,
       cheap perks of paritcular privileges.
+- The Idea Factory: Bell Labs and the Great Age of American Innovation (Jon
+  Gertner)
+- Deaths of Despair and the Future of Capitalism (Angus Deaton and Anne Case)
 
 {% for post in site.posts %}
 <li>
