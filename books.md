@@ -156,6 +156,8 @@ layout: none
 - The Idea Factory: Bell Labs and the Great Age of American Innovation (Jon
   Gertner)
 - Deaths of Despair and the Future of Capitalism (Angus Deaton and Anne Case)
+- G-Man: J. Edgar Hoover and the Making of the American Century Kindle Edition
+  (Beverly Gage)
 
 {% for post in site.posts %}
 <li>
