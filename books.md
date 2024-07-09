@@ -98,6 +98,15 @@ layout: none
   - Pulled from <https://sive.rs/book>
 - Shutdown: How Covid Shook the World's Economy (Adam Tooze)
 - The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind (Dan Davies)
+- The Human Stain (Philip Roth)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- Tree of Smoke (Denis Johnson)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- Frederick Douglass (David W. Blight)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- The Plot Against America (Philip Roth)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+
 
 ### Articles
 
@@ -158,6 +167,7 @@ layout: none
 - Deaths of Despair and the Future of Capitalism (Angus Deaton and Anne Case)
 - G-Man: J. Edgar Hoover and the Making of the American Century Kindle Edition
   (Beverly Gage)
+- When We Cease to Understand the World (Benjamín Labatut; translated by Adrian Nathan West)
 
 {% for post in site.posts %}
 <li>
