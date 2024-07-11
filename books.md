@@ -106,6 +106,14 @@ layout: none
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - The Plot Against America (Philip Roth)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- Tenth of December (George Saunders)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- Train Dreams (Denis Johnson)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- Small Things Like These (Claire Keegan)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- Crooked Plow/Torto Arado (Itamar Vieira Junior)
+
 
 
 ### Articles
