@@ -113,6 +113,12 @@ layout: none
 - Small Things Like These (Claire Keegan)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Crooked Plow/Torto Arado (Itamar Vieira Junior)
+- Hateship, Friendship, Courtship, Loveship, Marriage (Alice Munro)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- The Road (Cormac McCarthy)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+
+
 
 
 
@@ -176,6 +182,7 @@ layout: none
 - G-Man: J. Edgar Hoover and the Making of the American Century Kindle Edition
   (Beverly Gage)
 - When We Cease to Understand the World (Benjamín Labatut; translated by Adrian Nathan West)
+- Gilead (Marilynne Robinson)
 
 {% for post in site.posts %}
 <li>
