@@ -184,6 +184,7 @@ layout: none
 - The Last Campaign: Robert F. Kennedy and 82 Days That Inspired America
   (Thurston Clarke). I believe this was recommended by Zack Rosen.
 - The Last Campaign: Sherman, Geronimo and the War for America Hardcover (H. W. Brands)
+- James: A Novel (Percival Everett)
 
 {% for post in site.posts %}
 <li>
