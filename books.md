@@ -64,8 +64,6 @@ layout: none
 - [Mortality and morbidity in the 21st
   century](https://www.brookings.edu/wp-content/uploads/2017/03/6_casedeaton.pdf)
   (Brookings)
-- The Last Campaign: Robert F. Kennedy and 82 Days That Inspired America
-  (Thurston Clarke). I believe this was recommended by Zack Rosen.
 - How I Wish I'd Taught Maths: Lessons Learned from Research, Conversations
   with Experts, and 12 Years of Mistakes (Craig Barton)
 - How to Lose a Country: The 7 Steps from Democracy to Dictatorship (Ece
@@ -183,6 +181,9 @@ layout: none
   (Beverly Gage)
 - When We Cease to Understand the World (Benjamín Labatut; translated by Adrian Nathan West)
 - Gilead (Marilynne Robinson)
+- The Last Campaign: Robert F. Kennedy and 82 Days That Inspired America
+  (Thurston Clarke). I believe this was recommended by Zack Rosen.
+- The Last Campaign: Sherman, Geronimo and the War for America Hardcover (H. W. Brands)
 
 {% for post in site.posts %}
 <li>
