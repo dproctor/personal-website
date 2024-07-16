@@ -39,7 +39,6 @@ layout: none
   Expectations (Christopher Lasch)
 - Private Virtues, Public Vices: Philanthropy and Democratic Equality (Emma
   Saunders-Hastings)
-- Life Together (Dietrich Bonhoeffer)
 - The Woman Behind the New Deal: The Life of Frances Perkins, FDR'S Secretary
   of Labor and His Moral Conscience (Kirstin Downey)
 - Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the
@@ -78,7 +77,6 @@ layout: none
 - Hombres de maíz (Miguel Ángel Asturias)
 - Wanderlust: A History of Walking (Rebecca Solnit)
 - Gene Machine: The Race to Decipher the Secrets of the Ribosome (Venki Ramakrishnan)
-- The Origins of Totalitarianism (Hannah Arendt)
 - Black Reconstruction in America: An Essay Toward a History of the Part Which
   Black Folk Played in the Attempt to Reconstruct Democracy in America,
   1860–1880 (W. E. B. Du Bois)
@@ -185,6 +183,8 @@ layout: none
   (Thurston Clarke). I believe this was recommended by Zack Rosen.
 - The Last Campaign: Sherman, Geronimo and the War for America Hardcover (H. W. Brands)
 - James: A Novel (Percival Everett)
+- The Origins of Totalitarianism (Hannah Arendt)
+- Life Together (Dietrich Bonhoeffer)
 
 {% for post in site.posts %}
 <li>
