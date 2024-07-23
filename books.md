@@ -185,6 +185,10 @@ layout: none
 - James: A Novel (Percival Everett)
 - The Origins of Totalitarianism (Hannah Arendt)
 - Life Together (Dietrich Bonhoeffer)
+- Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the
+  Comanches, the Most Powerful Indian Tribe in American History Paperback (S.
+  C. Gwynne)
+
 
 {% for post in site.posts %}
 <li>
