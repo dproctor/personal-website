@@ -115,9 +115,6 @@ layout: none
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Engines That Move Markets: Technology Investing from Railroads to the
   Internet and Beyond (Alasdair Nairn)
-- The Coddling of the American Mind: How Good Intentions and Bad Ideas Are
-  Setting Up a Generation for Failure Hardcover (Greg Lukianoff, Jonathan
-  Haidt)
 
 
 
@@ -193,6 +190,9 @@ layout: none
 - Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the
   Comanches, the Most Powerful Indian Tribe in American History Paperback (S.
   C. Gwynne)
+- The Coddling of the American Mind: How Good Intentions and Bad Ideas Are
+  Setting Up a Generation for Failure Hardcover (Greg Lukianoff, Jonathan
+  Haidt)
 
 
 {% for post in site.posts %}
