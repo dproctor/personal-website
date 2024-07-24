@@ -113,7 +113,12 @@ layout: none
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - The Road (Cormac McCarthy)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
-- Engines That Move Markets: Technology Investing from Railroads to the Internet and Beyond (Alasdair Nairn)
+- Engines That Move Markets: Technology Investing from Railroads to the
+  Internet and Beyond (Alasdair Nairn)
+- The Coddling of the American Mind: How Good Intentions and Bad Ideas Are
+  Setting Up a Generation for Failure Hardcover (Greg Lukianoff, Jonathan
+  Haidt)
+
 
 
 
