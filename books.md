@@ -193,7 +193,8 @@ layout: none
 - The Coddling of the American Mind: How Good Intentions and Bad Ideas Are
   Setting Up a Generation for Failure Hardcover (Greg Lukianoff, Jonathan
   Haidt)
-
+- Brothers Karamazov (Fyodor Dostoyevsky; translated by Constance Garnett)
+- On Liberty (John Stuart Mill)
 
 {% for post in site.posts %}
 <li>
