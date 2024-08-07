@@ -195,6 +195,7 @@ layout: none
   Haidt)
 - Brothers Karamazov (Fyodor Dostoyevsky; translated by Constance Garnett)
 - On Liberty (John Stuart Mill)
+- The Plot Against America: A Novel (Philip Roth)
 
 {% for post in site.posts %}
 <li>
