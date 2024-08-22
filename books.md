@@ -196,6 +196,10 @@ layout: none
 - Brothers Karamazov (Fyodor Dostoyevsky; translated by Constance Garnett)
 - On Liberty (John Stuart Mill)
 - The Plot Against America: A Novel (Philip Roth)
+- Politics Is for Power: How to Move Beyond Political Hobbyism, Take Action, and Make Real Change (Eitan Hersh)
+- Frederick Douglass: Prophet of Freedom (David W. Blight)
+- Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime (Sean
+  Carroll)
 
 {% for post in site.posts %}
 <li>
