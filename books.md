@@ -200,6 +200,7 @@ layout: none
 - Frederick Douglass: Prophet of Freedom (David W. Blight)
 - Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime (Sean
   Carroll)
+- San Fransicko: Why Progressives Ruin Cities (Michael Shellenberger)
 
 {% for post in site.posts %}
 <li>
