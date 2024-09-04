@@ -96,8 +96,6 @@ layout: none
 - The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind (Dan Davies)
 - The Human Stain (Philip Roth)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
-- Tree of Smoke (Denis Johnson)
-  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Frederick Douglass (David W. Blight)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - The Plot Against America (Philip Roth)
@@ -115,9 +113,6 @@ layout: none
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Engines That Move Markets: Technology Investing from Railroads to the
   Internet and Beyond (Alasdair Nairn)
-
-
-
 
 
 ### Articles
@@ -198,9 +193,11 @@ layout: none
 - The Plot Against America: A Novel (Philip Roth)
 - Politics Is for Power: How to Move Beyond Political Hobbyism, Take Action, and Make Real Change (Eitan Hersh)
 - Frederick Douglass: Prophet of Freedom (David W. Blight)
-- Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime (Sean
-  Carroll)
+- Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime (Sean Carroll)
 - San Fransicko: Why Progressives Ruin Cities (Michael Shellenberger)
+- The Biggest Ideas in the Universe: Space, Time, and Motion (Sean Carroll)
+- Tree of Smoke (Denis Johnson)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 
 {% for post in site.posts %}
 <li>
