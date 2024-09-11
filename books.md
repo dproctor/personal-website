@@ -198,6 +198,7 @@ layout: none
 - The Biggest Ideas in the Universe: Space, Time, and Motion (Sean Carroll)
 - Tree of Smoke (Denis Johnson)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power (Max Chafkin)
 
 {% for post in site.posts %}
 <li>
