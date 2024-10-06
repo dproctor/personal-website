@@ -100,8 +100,6 @@ layout: none
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - The Plot Against America (Philip Roth)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
-- Tenth of December (George Saunders)
-  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Train Dreams (Denis Johnson)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Small Things Like These (Claire Keegan)
@@ -199,8 +197,14 @@ layout: none
 - Tree of Smoke (Denis Johnson)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power (Max Chafkin)
-- The Corrections (Jonathan Franzen)
 - Private Citizens (Tony Tulathimutte)
+- The Art of Power: My Story as America's First Woman Speaker of the House (Nancy Pelosi)
+- Tenth of December (George Saunders)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
+- The Corrections: A Novel (Jonathan Franzen)
+- Hillbilly Elegy: A Memoir of a Family and Culture in Crisis (JD Vance)
+- The Future Is History: How Totalitarianism Reclaimed Russia (Masha Gessen)
+- The Man Without a Face: The Unlikely Rise of Vladimir Putin (Masha Gessen)
 
 {% for post in site.posts %}
 <li>
