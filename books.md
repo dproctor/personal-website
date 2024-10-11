@@ -207,6 +207,7 @@ layout: none
 - The Future Is History: How Totalitarianism Reclaimed Russia (Masha Gessen)
 - The Man Without a Face: The Unlikely Rise of Vladimir Putin (Masha Gessen)
 - Train Dreams (Denis Johnson)
+- God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning (Meghan O’Gieblyn)
 
 {% for post in site.posts %}
 <li>
