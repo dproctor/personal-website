@@ -96,10 +96,6 @@ layout: none
 - The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind (Dan Davies)
 - The Human Stain (Philip Roth)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
-- Frederick Douglass (David W. Blight)
-  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
-- The Plot Against America (Philip Roth)
-  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Train Dreams (Denis Johnson)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Small Things Like These (Claire Keegan)
@@ -189,9 +185,11 @@ layout: none
   Haidt)
 - Brothers Karamazov (Fyodor Dostoyevsky; translated by Constance Garnett)
 - On Liberty (John Stuart Mill)
-- The Plot Against America: A Novel (Philip Roth)
+- The Plot Against America (Philip Roth)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Politics Is for Power: How to Move Beyond Political Hobbyism, Take Action, and Make Real Change (Eitan Hersh)
 - Frederick Douglass: Prophet of Freedom (David W. Blight)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime (Sean Carroll)
 - San Fransicko: Why Progressives Ruin Cities (Michael Shellenberger)
 - The Biggest Ideas in the Universe: Space, Time, and Motion (Sean Carroll)
