@@ -108,6 +108,8 @@ layout: none
 - Engines That Move Markets: Technology Investing from Railroads to the
   Internet and Beyond (Alasdair Nairn)
 - The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger (Marc Levinson)
+- The Right Stuff (Tom Wolfe)
+- The Electric Kool-Aid Acid Test (Tom Wolfe)
 
 
 ### Articles
@@ -207,6 +209,8 @@ layout: none
 - Train Dreams (Denis Johnson)
 - God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning (Meghan O’Gieblyn)
 - The Bonfire of the Vanities (Tom Wolfe)
+- Rejection: Fiction (Tony Tulathimutte)
+- Every Man for Himself and God Against All: A Memoir (Werner Herzog)
 
 {% for post in site.posts %}
 <li>
