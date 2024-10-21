@@ -140,6 +140,7 @@ layout: none
   Samuel L. Smith, Karen Simonyan)
 - [Deep Learning Opacity in Scientific
   Discovery](https://arxiv.org/abs/2206.00520) (Eamon Duede)
+- Every Man for Himself and God Against All: A Memoir (Werner Herzog)
 
 ## Previous
 
@@ -204,13 +205,13 @@ layout: none
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - The Corrections: A Novel (Jonathan Franzen)
 - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis (JD Vance)
+- The Biggest Ideas in the Universe: Quanta and Fields (Sean Carroll)
 - The Future Is History: How Totalitarianism Reclaimed Russia (Masha Gessen)
 - The Man Without a Face: The Unlikely Rise of Vladimir Putin (Masha Gessen)
 - Train Dreams (Denis Johnson)
 - God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning (Meghan O’Gieblyn)
 - The Bonfire of the Vanities (Tom Wolfe)
 - Rejection: Fiction (Tony Tulathimutte)
-- Every Man for Himself and God Against All: A Memoir (Werner Herzog)
 
 {% for post in site.posts %}
 <li>
