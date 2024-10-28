@@ -10,7 +10,6 @@ layout: none
 
 - The Warburgs: The Twentieth-Century Odyssey of a Remarkable Jewish Family
   (Ron Chernow)
-- The Warmth of Other Suns (Isabel Wilkerson)
 - The End of the End of History: Politics in the Twenty-First Century (Alex
   Hochuli).  Recommended by Adam Touze on Ezra Klein (2022-03-01).
 - [First Draft of a Report on the
@@ -110,6 +109,7 @@ layout: none
 - The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger (Marc Levinson)
 - The Right Stuff (Tom Wolfe)
 - The Electric Kool-Aid Acid Test (Tom Wolfe)
+- The Ultimate Hidden Truth of the World: Essays (David Graeber)
 
 
 ### Articles
@@ -212,6 +212,7 @@ layout: none
 - God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning (Meghan O’Gieblyn)
 - The Bonfire of the Vanities (Tom Wolfe)
 - Rejection: Fiction (Tony Tulathimutte)
+- The Warmth of Other Suns (Isabel Wilkerson)
 
 {% for post in site.posts %}
 <li>
