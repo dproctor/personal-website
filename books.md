@@ -213,6 +213,9 @@ layout: none
 - The Bonfire of the Vanities (Tom Wolfe)
 - Rejection: Fiction (Tony Tulathimutte)
 - The Warmth of Other Suns (Isabel Wilkerson)
+- Our Man: Richard Holbrooke and the End of the American Century (George Packer)
+- The Kingdom, the Power, and the Glory: American Evangelicals in an Age of Extremism (Tim Alberta)
+
 
 {% for post in site.posts %}
 <li>
