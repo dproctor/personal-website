@@ -110,6 +110,7 @@ layout: none
 - The Right Stuff (Tom Wolfe)
 - The Electric Kool-Aid Acid Test (Tom Wolfe)
 - The Ultimate Hidden Truth of the World: Essays (David Graeber)
+- People, Power, Change: Organizing for Democratic Renewal (Marshall Ganz)
 
 
 ### Articles
