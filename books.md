@@ -102,7 +102,6 @@ layout: none
 - Crooked Plow/Torto Arado (Itamar Vieira Junior)
 - Hateship, Friendship, Courtship, Loveship, Marriage (Alice Munro)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
-- The Road (Cormac McCarthy)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Engines That Move Markets: Technology Investing from Railroads to the
   Internet and Beyond (Alasdair Nairn)
@@ -216,6 +215,8 @@ layout: none
 - The Warmth of Other Suns (Isabel Wilkerson)
 - Our Man: Richard Holbrooke and the End of the American Century (George Packer)
 - The Kingdom, the Power, and the Glory: American Evangelicals in an Age of Extremism (Tim Alberta)
+- Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War (Raj M. Shah, Christopher Kirchhoff)
+- The Road (Cormac McCarthy)
 
 
 {% for post in site.posts %}
