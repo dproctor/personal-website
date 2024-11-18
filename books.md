@@ -102,7 +102,6 @@ layout: none
 - Crooked Plow/Torto Arado (Itamar Vieira Junior)
 - Hateship, Friendship, Courtship, Loveship, Marriage (Alice Munro)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
-  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Engines That Move Markets: Technology Investing from Railroads to the
   Internet and Beyond (Alasdair Nairn)
 - The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger (Marc Levinson)
@@ -218,7 +217,8 @@ layout: none
 - Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War (Raj M. Shah, Christopher Kirchhoff)
 - The Road (Cormac McCarthy)
 - Butler to the World: The Book the Oligarchs Don't Want You to Read - How Britain Helps the World's Worst People Launder Money, Commit Crimes, and Get Away with Anything (Oliver Bullough)
-
+- The Message (Ta-Nehisi Coates)
+- Shoe Dog: A Memoir by the Creator of Nike (Phil Knight)
 
 {% for post in site.posts %}
 <li>
