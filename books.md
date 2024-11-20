@@ -183,8 +183,7 @@ layout: none
   Comanches, the Most Powerful Indian Tribe in American History Paperback (S.
   C. Gwynne)
 - The Coddling of the American Mind: How Good Intentions and Bad Ideas Are
-  Setting Up a Generation for Failure Hardcover (Greg Lukianoff, Jonathan
-  Haidt)
+  Setting Up a Generation for Failure (Greg Lukianoff, Jonathan Haidt)
 - Brothers Karamazov (Fyodor Dostoyevsky; translated by Constance Garnett)
 - On Liberty (John Stuart Mill)
 - The Plot Against America (Philip Roth)
@@ -219,6 +218,8 @@ layout: none
 - Butler to the World: The Book the Oligarchs Don't Want You to Read - How Britain Helps the World's Worst People Launder Money, Commit Crimes, and Get Away with Anything (Oliver Bullough)
 - The Message (Ta-Nehisi Coates)
 - Shoe Dog: A Memoir by the Creator of Nike (Phil Knight)
+- Small Things like These (Claire Keegan)
+- The Righteous Mind: Why Good People Are Divided by Politics and Religion (Jonathan Haidt)
 
 {% for post in site.posts %}
 <li>
