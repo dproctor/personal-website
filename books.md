@@ -220,6 +220,8 @@ layout: none
 - Shoe Dog: A Memoir by the Creator of Nike (Phil Knight)
 - Small Things like These (Claire Keegan)
 - The Righteous Mind: Why Good People Are Divided by Politics and Religion (Jonathan Haidt)
+- The Square and the Tower (Niall Ferguson)
+- Slow Productivity: The Lost Art of Accomplishment Without Burnout (Cal Newport)
 
 {% for post in site.posts %}
 <li>
