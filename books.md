@@ -222,6 +222,7 @@ layout: none
 - The Righteous Mind: Why Good People Are Divided by Politics and Religion (Jonathan Haidt)
 - The Square and the Tower (Niall Ferguson)
 - Slow Productivity: The Lost Art of Accomplishment Without Burnout (Cal Newport)
+- Blood Meridian (Cormac McCarthy)
 
 {% for post in site.posts %}
 <li>
