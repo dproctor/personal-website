@@ -223,6 +223,11 @@ layout: none
 - The Square and the Tower (Niall Ferguson)
 - Slow Productivity: The Lost Art of Accomplishment Without Burnout (Cal Newport)
 - Blood Meridian (Cormac McCarthy)
+- Life and Fate (Vasily Grossman)
+- Reagan: His Life and Legend (Max Boot)
+- You Dreamed of Empires: A Novel (Álvaro Enrigue)
+- On the Road (Jack Kerouac)
+- Nexus (Yuval Noah Harari)
 
 {% for post in site.posts %}
 <li>
