@@ -227,7 +227,7 @@ layout: none
 - Reagan: His Life and Legend (Max Boot)
 - You Dreamed of Empires: A Novel (Álvaro Enrigue)
 - On the Road (Jack Kerouac)
-- Nexus (Yuval Noah Harari)
+- Nexus: A Brief History of Information Networks from the Stone Age to AI (Yuval Noah Harari)
 
 {% for post in site.posts %}
 <li>
