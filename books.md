@@ -95,8 +95,6 @@ layout: none
 - The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind (Dan Davies)
 - The Human Stain (Philip Roth)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
-- Train Dreams (Denis Johnson)
-  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Small Things Like These (Claire Keegan)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Crooked Plow/Torto Arado (Itamar Vieira Junior)
@@ -207,6 +205,7 @@ layout: none
 - The Future Is History: How Totalitarianism Reclaimed Russia (Masha Gessen)
 - The Man Without a Face: The Unlikely Rise of Vladimir Putin (Masha Gessen)
 - Train Dreams (Denis Johnson)
+  - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning (Meghan O’Gieblyn)
 - The Bonfire of the Vanities (Tom Wolfe)
 - Rejection: Fiction (Tony Tulathimutte)
@@ -228,6 +227,8 @@ layout: none
 - You Dreamed of Empires: A Novel (Álvaro Enrigue)
 - On the Road (Jack Kerouac)
 - Nexus: A Brief History of Information Networks from the Stone Age to AI (Yuval Noah Harari)
+- Light in August (William Faulkner)
+- Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis (Jonathan Blitzer)
 
 {% for post in site.posts %}
 <li>
