@@ -8,8 +8,6 @@ layout: none
 
 ### Books
 
-- The Warburgs: The Twentieth-Century Odyssey of a Remarkable Jewish Family
-  (Ron Chernow)
 - The End of the End of History: Politics in the Twenty-First Century (Alex
   Hochuli).  Recommended by Adam Touze on Ezra Klein (2022-03-01).
 - [First Draft of a Report on the
@@ -228,7 +226,10 @@ layout: none
 - On the Road (Jack Kerouac)
 - Nexus: A Brief History of Information Networks from the Stone Age to AI (Yuval Noah Harari)
 - Light in August (William Faulkner)
+- Black Pill: How I Witnessed the Darkest Corners of the Internet Come to Life, Poison Society, and Capture American Politics (Elle Reeve)
 - Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis (Jonathan Blitzer)
+- The Unwinding: An Inner History of the New America (George Packer)
+- The Warburgs: The Twentieth-Century Odyssey of a Remarkable Jewish Family (Ron Chernow)
 
 {% for post in site.posts %}
 <li>
