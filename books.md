@@ -231,6 +231,8 @@ layout: none
 - The Unwinding: An Inner History of the New America (George Packer)
 - The Warburgs: The Twentieth-Century Odyssey of a Remarkable Jewish Family (Ron Chernow)
 - The Deep Places: A Memoir of Illness and Discovery (Ross Douthat)
+- Good Material (Dolly Alderton)
+- The Picture of Dorian Gray (Oscar Wilde)
 
 {% for post in site.posts %}
 <li>
