@@ -233,6 +233,7 @@ layout: none
 - The Deep Places: A Memoir of Illness and Discovery (Ross Douthat)
 - Good Material (Dolly Alderton)
 - The Picture of Dorian Gray (Oscar Wilde)
+- BoyMom: Reimagining Boyhood in the Age of Impossible Masculinity (Ruth Whippman)
 
 {% for post in site.posts %}
 <li>
