@@ -235,6 +235,7 @@ layout: none
 - The Picture of Dorian Gray (Oscar Wilde)
 - BoyMom: Reimagining Boyhood in the Age of Impossible Masculinity (Ruth Whippman)
 - Orbital (Samantha Harvey)
+- Hitler's People: The Faces of the Third Reich (Richard J. Evans)
 
 {% for post in site.posts %}
 <li>
