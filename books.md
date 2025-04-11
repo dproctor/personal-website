@@ -105,6 +105,8 @@ layout: none
 - The Electric Kool-Aid Acid Test (Tom Wolfe)
 - The Ultimate Hidden Truth of the World: Essays (David Graeber)
 - People, Power, Change: Organizing for Democratic Renewal (Marshall Ganz)
+- Power and Responsibility: a Course of Action for the New Age (Romano Guardini)
+- Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again (Jeffrey E. E. Young, Janet S. Klosko)
 
 
 ### Articles
@@ -236,6 +238,8 @@ layout: none
 - BoyMom: Reimagining Boyhood in the Age of Impossible Masculinity (Ruth Whippman)
 - Orbital (Samantha Harvey)
 - Hitler's People: The Faces of the Third Reich (Richard J. Evans)
+- The Kingdom of Speech (Tom Wolfe)
+- Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents (Lindsay C. Gibson)
 
 {% for post in site.posts %}
 <li>
