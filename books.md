@@ -240,6 +240,7 @@ layout: none
 - Hitler's People: The Faces of the Third Reich (Richard J. Evans)
 - The Kingdom of Speech (Tom Wolfe)
 - Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents (Lindsay C. Gibson)
+- Confidence Man: The Making of Donald Trump and the Breaking of America (Maggie Haberman
 
 {% for post in site.posts %}
 <li>
