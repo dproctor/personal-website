@@ -242,6 +242,7 @@ layout: none
 - Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents (Lindsay C. Gibson)
 - Confidence Man: The Making of Donald Trump and the Breaking of America (Maggie Haberman
 - Why Nothing Works: Who Killed Progress―and How to Bring It Back (Marc J. Dunkelman)
+- How to Win Friends and Influence People (Dale Carnegie)
 
 {% for post in site.posts %}
 <li>
