@@ -108,7 +108,7 @@ layout: none
 - Power and Responsibility: a Course of Action for the New Age (Romano Guardini)
 - Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again (Jeffrey E. E. Young, Janet S. Klosko)
 - Cross Purposes: Christianity's Broken Bargain with Democracy (Jonathan Rauch)
-
+- Men Without Work: America's Invisible Crisis (Nicholas Eberstadt)
 
 ### Articles
 
