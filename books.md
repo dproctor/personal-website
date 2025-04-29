@@ -103,12 +103,15 @@ layout: none
 - The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger (Marc Levinson)
 - The Right Stuff (Tom Wolfe)
 - The Electric Kool-Aid Acid Test (Tom Wolfe)
-- The Ultimate Hidden Truth of the World: Essays (David Graeber)
 - People, Power, Change: Organizing for Democratic Renewal (Marshall Ganz)
 - Power and Responsibility: a Course of Action for the New Age (Romano Guardini)
 - Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again (Jeffrey E. E. Young, Janet S. Klosko)
 - Cross Purposes: Christianity's Broken Bargain with Democracy (Jonathan Rauch)
 - Men Without Work: America's Invisible Crisis (Nicholas Eberstadt)
+- Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism (Ha-Joon Chang)
+- The Defining Moment: FDR's Hundred Days and the Triumph of Hope (Jonathan Alter)
+- Destructive Creation: American Business and the Winning of World War II (Mark R. Wilson)
+
 
 ### Articles
 
@@ -241,9 +244,12 @@ layout: none
 - Hitler's People: The Faces of the Third Reich (Richard J. Evans)
 - The Kingdom of Speech (Tom Wolfe)
 - Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents (Lindsay C. Gibson)
-- Confidence Man: The Making of Donald Trump and the Breaking of America (Maggie Haberman
+- Confidence Man: The Making of Donald Trump and the Breaking of America (Maggie Haberman)
 - Why Nothing Works: Who Killed Progress―and How to Bring It Back (Marc J. Dunkelman)
 - How to Win Friends and Influence People (Dale Carnegie)
+- The Ultimate Hidden Truth of the World: Essays (David Graeber)
+- Relinquished: The Politics of Adoption and the Privilege of American Motherhood (Gretchen Sisson)
+- Debt: The First 5000 Years (David Graeber)
 
 {% for post in site.posts %}
 <li>
