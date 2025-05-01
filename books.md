@@ -250,6 +250,7 @@ layout: none
 - The Ultimate Hidden Truth of the World: Essays (David Graeber)
 - Relinquished: The Politics of Adoption and the Privilege of American Motherhood (Gretchen Sisson)
 - Debt: The First 5000 Years (David Graeber)
+- Believe: Why Everyone Should Be Religious (Ross Douthat)
 
 {% for post in site.posts %}
 <li>
