@@ -251,6 +251,7 @@ layout: none
 - Relinquished: The Politics of Adoption and the Privilege of American Motherhood (Gretchen Sisson)
 - Debt: The First 5000 Years (David Graeber)
 - Believe: Why Everyone Should Be Religious (Ross Douthat)
+- Precipice (Robert Harris)
 
 {% for post in site.posts %}
 <li>
