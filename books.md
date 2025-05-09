@@ -252,6 +252,7 @@ layout: none
 - Debt: The First 5000 Years (David Graeber)
 - Believe: Why Everyone Should Be Religious (Ross Douthat)
 - Precipice (Robert Harris)
+- Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy (Quinn Slobodian)
 
 {% for post in site.posts %}
 <li>
