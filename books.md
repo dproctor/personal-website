@@ -111,6 +111,7 @@ layout: none
 - Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism (Ha-Joon Chang)
 - The Defining Moment: FDR's Hundred Days and the Triumph of Hope (Jonathan Alter)
 - Destructive Creation: American Business and the Winning of World War II (Mark R. Wilson)
+- Apple in China: The Capture of the World's Greatest Company (Patrick McGee)
 
 
 ### Articles
