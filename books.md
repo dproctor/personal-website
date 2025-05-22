@@ -254,6 +254,7 @@ layout: none
 - Believe: Why Everyone Should Be Religious (Ross Douthat)
 - Precipice (Robert Harris)
 - Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy (Quinn Slobodian)
+- The Technological Republic: Hard Power, Soft Belief, and the Future of the West (Alexander C. Karp)
 
 {% for post in site.posts %}
 <li>
