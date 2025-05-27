@@ -255,6 +255,8 @@ layout: none
 - Precipice (Robert Harris)
 - Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy (Quinn Slobodian)
 - The Technological Republic: Hard Power, Soft Belief, and the Future of the West (Alexander C. Karp)
+- Marketcrafters: The 100-Year Struggle to Shape the American Economy (Chris Hughes)
+
 
 {% for post in site.posts %}
 <li>
