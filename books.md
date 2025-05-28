@@ -95,7 +95,6 @@ layout: none
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Small Things Like These (Claire Keegan)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
-- Crooked Plow/Torto Arado (Itamar Vieira Junior)
 - Hateship, Friendship, Courtship, Loveship, Marriage (Alice Munro)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Engines That Move Markets: Technology Investing from Railroads to the
@@ -256,6 +255,9 @@ layout: none
 - Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy (Quinn Slobodian)
 - The Technological Republic: Hard Power, Soft Belief, and the Future of the West (Alexander C. Karp)
 - Marketcrafters: The 100-Year Struggle to Shape the American Economy (Chris Hughes)
+- Crooked Plow/Torto Arado (Itamar Vieira Junior)
+- Liberalism and Its Discontents (Francis Fukuyama)
+- Globalists: The End of Empire and the Birth of Neoliberalism (Quinn Slobodian)
 
 
 {% for post in site.posts %}
