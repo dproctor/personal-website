@@ -258,6 +258,7 @@ layout: none
 - Crooked Plow/Torto Arado (Itamar Vieira Junior)
 - Liberalism and Its Discontents (Francis Fukuyama)
 - Globalists: The End of Empire and the Birth of Neoliberalism (Quinn Slobodian)
+- Moby-Dick (Herman Melville)
 
 
 {% for post in site.posts %}
