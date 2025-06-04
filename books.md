@@ -259,6 +259,7 @@ layout: none
 - Liberalism and Its Discontents (Francis Fukuyama)
 - Globalists: The End of Empire and the Birth of Neoliberalism (Quinn Slobodian)
 - Moby-Dick (Herman Melville)
+- Original Sin: President Biden's Decline, Its Cover-Up, and His Disastrous Choice to Run Again (Jake Tapper)
 
 
 {% for post in site.posts %}
