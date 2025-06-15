@@ -262,6 +262,7 @@ layout: none
 - Original Sin: President Biden's Decline, Its Cover-Up, and His Disastrous Choice to Run Again (Jake Tapper)
 - In My Time of Dying: How I Came Face to Face with the Idea of an Afterlife (Sebastian Junger)
 - Manufacturing Consent: The Political Economy of the Mass Media (Edward S. Herman and Noam Chomsky)
+- Lord of the Flies (William Golding)
 
 
 {% for post in site.posts %}
