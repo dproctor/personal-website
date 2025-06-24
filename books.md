@@ -264,7 +264,7 @@ layout: none
 - Manufacturing Consent: The Political Economy of the Mass Media (Edward S. Herman and Noam Chomsky)
 - Lord of the Flies (William Golding)
 - Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist (Liz Pelly)
-
+- Universe from Nothing: Why There Is Something Rather than Nothing (Lawrence M. Krauss)
 
 
 {% for post in site.posts %}
