@@ -268,6 +268,7 @@ layout: none
 - Mark Twain (Ron Chernow). Only made it through 1/4 of the book. It felt like way too much detail about someone that I don't have a strong motivation to learn more about.
 - Who Killed Jane Stanford?: A Gilded Age Tale of Murder, Deceit, Spirits and the Birth of a University (Richard White)
 - Railroaded: The Transcontinentals and the Making of Modern America (Richard White)
+- Baldwin: A Love Story (Nicholas Boggs)
 
 
 {% for post in site.posts %}
