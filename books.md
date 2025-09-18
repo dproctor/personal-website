@@ -269,6 +269,7 @@ layout: none
 - Who Killed Jane Stanford?: A Gilded Age Tale of Murder, Deceit, Spirits and the Birth of a University (Richard White)
 - Railroaded: The Transcontinentals and the Making of Modern America (Richard White)
 - Baldwin: A Love Story (Nicholas Boggs)
+- These Truths: A History of the United States (Jill Lepore)
 
 
 {% for post in site.posts %}
