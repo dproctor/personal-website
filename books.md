@@ -270,6 +270,8 @@ layout: none
 - Railroaded: The Transcontinentals and the Making of Modern America (Richard White)
 - Baldwin: A Love Story (Nicholas Boggs)
 - These Truths: A History of the United States (Jill Lepore)
+- Another Country (James Baldwin)
+- Days of Rage: America's Radical Underground, the FBI, and the Forgotten Age of Revolutionary Violence (Bryan Burrough)
 
 
 {% for post in site.posts %}
