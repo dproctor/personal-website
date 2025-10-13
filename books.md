@@ -272,6 +272,8 @@ layout: none
 - These Truths: A History of the United States (Jill Lepore)
 - Another Country (James Baldwin)
 - Days of Rage: America's Radical Underground, the FBI, and the Forgotten Age of Revolutionary Violence (Bryan Burrough)
+- Edible Economics: A Hungry Economist Explains the World (Ha-Joon Chang)
+- Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism (Ha-Joon Chang)
 
 
 {% for post in site.posts %}
