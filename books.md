@@ -274,6 +274,8 @@ layout: none
 - Days of Rage: America's Radical Underground, the FBI, and the Forgotten Age of Revolutionary Violence (Bryan Burrough)
 - Edible Economics: A Hungry Economist Explains the World (Ha-Joon Chang)
 - Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism (Ha-Joon Chang)
+- Orientalism (Edward Said)
+- The Question of Palestine (Edward Said)
 
 
 {% for post in site.posts %}
