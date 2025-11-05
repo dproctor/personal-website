@@ -276,6 +276,7 @@ layout: none
 - Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism (Ha-Joon Chang)
 - Orientalism (Edward Said)
 - The Question of Palestine (Edward Said)
+- The Tyranny of Merit: What's Become of the Common Good? (Michael J. Sandel)
 
 
 {% for post in site.posts %}
