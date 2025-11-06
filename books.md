@@ -277,6 +277,7 @@ layout: none
 - Orientalism (Edward Said)
 - The Question of Palestine (Edward Said)
 - The Tyranny of Merit: What's Become of the Common Good? (Michael J. Sandel)
+- Apple in China: The Capture of the World's Greatest Company (Patrick McGee)
 
 
 {% for post in site.posts %}
