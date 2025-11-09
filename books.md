@@ -278,6 +278,10 @@ layout: none
 - The Question of Palestine (Edward Said)
 - The Tyranny of Merit: What's Become of the Common Good? (Michael J. Sandel)
 - Apple in China: The Capture of the World's Greatest Company (Patrick McGee)
+- Breakneck: China's Quest to Engineer the Future (Dan Wang)
+- What Money Can't Buy: The Moral Limits of Markets (Michael J. Sandel)
+
+>>>>>>> 340a44a ()
 
 
 {% for post in site.posts %}
