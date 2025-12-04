@@ -280,8 +280,10 @@ layout: none
 - Apple in China: The Capture of the World's Greatest Company (Patrick McGee)
 - Breakneck: China's Quest to Engineer the Future (Dan Wang)
 - What Money Can't Buy: The Moral Limits of Markets (Michael J. Sandel)
-
->>>>>>> 340a44a ()
+- Justice: What's the Right Thing to Do? (Michael J. Sandel)
+- Nudge: Improving Decisions About Health, Wealth, and Happiness (Richard H. Thaler, Cass R. Sunstein)
+- Reflections on exile and other essays (Edward Said)
+- Perfection (Vincenzo Latronico)
 
 
 {% for post in site.posts %}
