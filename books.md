@@ -283,6 +283,7 @@ layout: none
 - Nudge: Improving Decisions About Health, Wealth, and Happiness (Richard H. Thaler, Cass R. Sunstein)
 - Reflections on exile and other essays (Edward Said)
 - Perfection (Vincenzo Latronico)
+- The Fate of Rome: Climate, Disease, and the End of an Empire (Kyle Harper)
 
 
 {% for post in site.posts %}
