@@ -89,7 +89,6 @@ layout: none
   - Pulled from <https://sive.rs/book>
 - E-Myth Revisited (Michael Gerber)
   - Pulled from <https://sive.rs/book>
-- Shutdown: How Covid Shook the World's Economy (Adam Tooze)
 - The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind (Dan Davies)
 - The Human Stain (Philip Roth)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
@@ -284,6 +283,7 @@ layout: none
 - Reflections on exile and other essays (Edward Said)
 - Perfection (Vincenzo Latronico)
 - The Fate of Rome: Climate, Disease, and the End of an Empire (Kyle Harper)
+- Shutdown: How Covid Shook the World's Economy (Adam Tooze)
 
 
 {% for post in site.posts %}
