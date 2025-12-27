@@ -284,6 +284,7 @@ layout: none
 - Perfection (Vincenzo Latronico)
 - The Fate of Rome: Climate, Disease, and the End of an Empire (Kyle Harper)
 - Shutdown: How Covid Shook the World's Economy (Adam Tooze)
+- A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck (Sophie Elmhirst)
 
 
 {% for post in site.posts %}
