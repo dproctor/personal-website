@@ -9,7 +9,7 @@ layout: none
 ### Books
 
 - The End of the End of History: Politics in the Twenty-First Century (Alex
-  Hochuli).  Recommended by Adam Touze on Ezra Klein (2022-03-01).
+  Hochuli). Recommended by Adam Touze on Ezra Klein (2022-03-01).
 - [First Draft of a Report on the
   EDVAC](https://web.mit.edu/STS.035/www/PDFs/edvac.pdf) (John von Neumann)
 - [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have
@@ -38,8 +38,6 @@ layout: none
   Saunders-Hastings)
 - The Woman Behind the New Deal: The Life of Frances Perkins, FDR'S Secretary
   of Labor and His Moral Conscience (Kirstin Downey)
-- Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the
-  World (Cade Metz)
 - The Optimist's Telescope: Thinking Ahead in A Reckless Age (Bina Venkataraman)
 - The Inimitable Jeeves (PG Wodehouse)
 - Classic Indian Cooking (Julie Sahni)
@@ -110,7 +108,6 @@ layout: none
 - The Defining Moment: FDR's Hundred Days and the Triumph of Hope (Jonathan Alter)
 - Destructive Creation: American Business and the Winning of World War II (Mark R. Wilson)
 
-
 ### Articles
 
 - <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/>
@@ -162,10 +159,10 @@ layout: none
   Self (Michael Easter)
 - All Quiet on the Western Front (Erich Maria Remarque)
 - Brave New World (Aldous Huxley)
-    - Reread this after reading it ~10 years ago. Didn't find it very
-      insightful, though the central thesis is interesting - how people have
-      essentially enslaved themselves by their commitment to entertainment,
-      cheap perks of paritcular privileges.
+  - Reread this after reading it ~10 years ago. Didn't find it very
+    insightful, though the central thesis is interesting - how people have
+    essentially enslaved themselves by their commitment to entertainment,
+    cheap perks of paritcular privileges.
 - The Idea Factory: Bell Labs and the Great Age of American Innovation (Jon
   Gertner)
 - Deaths of Despair and the Future of Capitalism (Angus Deaton and Anne Case)
@@ -285,9 +282,11 @@ layout: none
 - The Fate of Rome: Climate, Disease, and the End of an Empire (Kyle Harper)
 - Shutdown: How Covid Shook the World's Economy (Adam Tooze)
 - A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck (Sophie Elmhirst)
-
+- Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the
+  World (Cade Metz)
 
 {% for post in site.posts %}
+
 <li>
   <a href="{{ post.url }}">
     {{ post.title }}
