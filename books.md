@@ -284,6 +284,7 @@ layout: none
 - A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck (Sophie Elmhirst)
 - Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the
   World (Cade Metz)
+- The Family Dynamic: A Journey Into the Mystery of Sibling Success (Susan Dominus)
 
 {% for post in site.posts %}
 
