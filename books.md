@@ -285,6 +285,7 @@ layout: none
 - Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the
   World (Cade Metz)
 - The Family Dynamic: A Journey Into the Mystery of Sibling Success (Susan Dominus)
+- Middlemarch (George Eliot)
 
 {% for post in site.posts %}
 
