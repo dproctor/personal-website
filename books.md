@@ -102,9 +102,7 @@ layout: none
 - People, Power, Change: Organizing for Democratic Renewal (Marshall Ganz)
 - Power and Responsibility: a Course of Action for the New Age (Romano Guardini)
 - Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again (Jeffrey E. E. Young, Janet S. Klosko)
-- Cross Purposes: Christianity's Broken Bargain with Democracy (Jonathan Rauch)
 - Men Without Work: America's Invisible Crisis (Nicholas Eberstadt)
-- Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism (Ha-Joon Chang)
 - The Defining Moment: FDR's Hundred Days and the Triumph of Hope (Jonathan Alter)
 - Destructive Creation: American Business and the Winning of World War II (Mark R. Wilson)
 
@@ -287,6 +285,7 @@ layout: none
 - The Family Dynamic: A Journey Into the Mystery of Sibling Success (Susan Dominus)
 - Middlemarch (George Eliot)
 - More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity (Adam Becker)
+- Cross Purposes: Christianity's Broken Bargain with Democracy (Jonathan Rauch)
 
 {% for post in site.posts %}
 
