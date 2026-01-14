@@ -286,6 +286,7 @@ layout: none
   World (Cade Metz)
 - The Family Dynamic: A Journey Into the Mystery of Sibling Success (Susan Dominus)
 - Middlemarch (George Eliot)
+- More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity (Adam Becker)
 
 {% for post in site.posts %}
 
