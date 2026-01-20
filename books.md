@@ -103,7 +103,6 @@ layout: none
 - Power and Responsibility: a Course of Action for the New Age (Romano Guardini)
 - Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again (Jeffrey E. E. Young, Janet S. Klosko)
 - Men Without Work: America's Invisible Crisis (Nicholas Eberstadt)
-- The Defining Moment: FDR's Hundred Days and the Triumph of Hope (Jonathan Alter)
 - Destructive Creation: American Business and the Winning of World War II (Mark R. Wilson)
 
 ### Articles
@@ -286,6 +285,9 @@ layout: none
 - Middlemarch (George Eliot)
 - More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity (Adam Becker)
 - Cross Purposes: Christianity's Broken Bargain with Democracy (Jonathan Rauch)
+- The Defining Moment: FDR's Hundred Days and the Triumph of Hope (Jonathan Alter)
+- The Permanent Problem: The Uncertain Transition from Mass Plenty to Mass Flourishing (Brink Lindsey)
+- The Rise and Fall of the Neoliberal Order: America and the World in the Free Market Era (Gary Gerstle)
 
 {% for post in site.posts %}
 
