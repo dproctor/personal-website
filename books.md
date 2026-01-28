@@ -289,6 +289,7 @@ layout: none
 - The Permanent Problem: The Uncertain Transition from Mass Plenty to Mass Flourishing (Brink Lindsey)
 - The Rise and Fall of the Neoliberal Order: America and the World in the Free Market Era (Gary Gerstle)
 - Wuthering Heights (Emily Brontë)
+- The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession (Michael Finkel)
 
 {% for post in site.posts %}
 
