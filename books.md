@@ -290,6 +290,7 @@ layout: none
 - The Rise and Fall of the Neoliberal Order: America and the World in the Free Market Era (Gary Gerstle)
 - Wuthering Heights (Emily Brontë)
 - The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession (Michael Finkel)
+- Where are the Customers' Yachts? Or, A Good Hard Look at Wall Street (Fred Schwed)
 
 {% for post in site.posts %}
 
