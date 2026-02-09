@@ -104,6 +104,7 @@ layout: none
 - Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again (Jeffrey E. E. Young, Janet S. Klosko)
 - Men Without Work: America's Invisible Crisis (Nicholas Eberstadt)
 - Destructive Creation: American Business and the Winning of World War II (Mark R. Wilson)
+- Trust in Numbers: The Pursuit of Objectivity in Science and Public Life (Theodore M. Porter
 
 ### Articles
 
