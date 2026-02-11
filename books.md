@@ -293,6 +293,7 @@ layout: none
 - The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession (Michael Finkel)
 - Where are the Customers' Yachts? Or, A Good Hard Look at Wall Street (Fred Schwed)
 - The Philosopher in the Valley: Alex Karp, Palantir and the Rise of the Surveillance State (Michael Steinberger)
+- Chokepoints: American Power in the Age of Economic Warfare (Edward Fishman)
 
 {% for post in site.posts %}
 
