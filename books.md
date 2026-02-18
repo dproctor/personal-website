@@ -294,6 +294,8 @@ layout: none
 - Where are the Customers' Yachts? Or, A Good Hard Look at Wall Street (Fred Schwed)
 - The Philosopher in the Valley: Alex Karp, Palantir and the Rise of the Surveillance State (Michael Steinberger)
 - Chokepoints: American Power in the Age of Economic Warfare (Edward Fishman)
+- This Is Where the Serpent Lives (Daniyal Mueenuddin)
+  > > > > > > > 2ed07f0 ()
 
 {% for post in site.posts %}
 
