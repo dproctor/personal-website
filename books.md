@@ -295,7 +295,7 @@ layout: none
 - The Philosopher in the Valley: Alex Karp, Palantir and the Rise of the Surveillance State (Michael Steinberger)
 - Chokepoints: American Power in the Age of Economic Warfare (Edward Fishman)
 - This Is Where the Serpent Lives (Daniyal Mueenuddin)
-  > > > > > > > 2ed07f0 ()
+- Three Felonies a Day: How the Feds Target the Innocent (Harvey Silverglate)
 
 {% for post in site.posts %}
 
