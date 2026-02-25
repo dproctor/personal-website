@@ -296,6 +296,7 @@ layout: none
 - Chokepoints: American Power in the Age of Economic Warfare (Edward Fishman)
 - This Is Where the Serpent Lives (Daniyal Mueenuddin)
 - Three Felonies a Day: How the Feds Target the Innocent (Harvey Silverglate)
+- Lost Lambs (Madeline Cash)
 
 {% for post in site.posts %}
 
