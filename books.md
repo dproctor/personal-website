@@ -297,6 +297,7 @@ layout: none
 - This Is Where the Serpent Lives (Daniyal Mueenuddin)
 - Three Felonies a Day: How the Feds Target the Innocent (Harvey Silverglate)
 - Lost Lambs (Madeline Cash)
+- 1929: Inside the Greatest Crash in Wall Street History and How It Shattered a Nation (Andrew Ross Sorkin)
 
 {% for post in site.posts %}
 
