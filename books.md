@@ -298,6 +298,7 @@ layout: none
 - Three Felonies a Day: How the Feds Target the Innocent (Harvey Silverglate)
 - Lost Lambs (Madeline Cash)
 - 1929: Inside the Greatest Crash in Wall Street History and How It Shattered a Nation (Andrew Ross Sorkin)
+- 107 Days (Kamala Harris)
 
 {% for post in site.posts %}
 
