@@ -299,6 +299,8 @@ layout: none
 - Lost Lambs (Madeline Cash)
 - 1929: Inside the Greatest Crash in Wall Street History and How It Shattered a Nation (Andrew Ross Sorkin)
 - 107 Days (Kamala Harris)
+- Land of Big Numbers (Te-Ping Chen)
+
 
 {% for post in site.posts %}
 
