@@ -300,7 +300,7 @@ layout: none
 - 1929: Inside the Greatest Crash in Wall Street History and How It Shattered a Nation (Andrew Ross Sorkin)
 - 107 Days (Kamala Harris)
 - Land of Big Numbers (Te-Ping Chen)
-
+- The Score: How to Stop Playing Somebody Else's Game (C. Thi Nguyen)
 
 {% for post in site.posts %}
 
