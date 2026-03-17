@@ -301,6 +301,7 @@ layout: none
 - 107 Days (Kamala Harris)
 - Land of Big Numbers (Te-Ping Chen)
 - The Score: How to Stop Playing Somebody Else's Game (C. Thi Nguyen)
+- Furious Minds: The Making of the MAGA New Right (Laura K. Field)
 
 {% for post in site.posts %}
 
