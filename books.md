@@ -303,6 +303,7 @@ layout: none
 - The Score: How to Stop Playing Somebody Else's Game (C. Thi Nguyen)
 - Furious Minds: The Making of the MAGA New Right (Laura K. Field)
 - Red Dawn Over China: How Communism Conquered a Quarter of Humanity (Frank Dikötter)
+- Enshittification: Why Everything Suddenly Got Worse and What to Do About It (Cory Doctorow)
 
 {% for post in site.posts %}
 
