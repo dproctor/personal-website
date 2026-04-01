@@ -304,6 +304,8 @@ layout: none
 - Furious Minds: The Making of the MAGA New Right (Laura K. Field)
 - Red Dawn Over China: How Communism Conquered a Quarter of Humanity (Frank Dikötter)
 - Enshittification: Why Everything Suddenly Got Worse and What to Do About It (Cory Doctorow)
+- Hated by All the Right People: Tucker Carlson and the Unraveling of the Conservative Mind (Jason Zengerle)
+
 
 {% for post in site.posts %}
 
