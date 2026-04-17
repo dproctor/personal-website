@@ -87,7 +87,6 @@ layout: none
   - Pulled from <https://sive.rs/book>
 - E-Myth Revisited (Michael Gerber)
   - Pulled from <https://sive.rs/book>
-- The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind (Dan Davies)
 - The Human Stain (Philip Roth)
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Small Things Like These (Claire Keegan)
@@ -286,6 +285,7 @@ layout: none
 - Middlemarch (George Eliot)
 - More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity (Adam Becker)
 - Cross Purposes: Christianity's Broken Bargain with Democracy (Jonathan Rauch)
+- The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind (Dan Davies)
 - The Defining Moment: FDR's Hundred Days and the Triumph of Hope (Jonathan Alter)
 - The Permanent Problem: The Uncertain Transition from Mass Plenty to Mass Flourishing (Brink Lindsey)
 - The Rise and Fall of the Neoliberal Order: America and the World in the Free Market Era (Gary Gerstle)
@@ -305,7 +305,7 @@ layout: none
 - Red Dawn Over China: How Communism Conquered a Quarter of Humanity (Frank Dikötter)
 - Enshittification: Why Everything Suddenly Got Worse and What to Do About It (Cory Doctorow)
 - Hated by All the Right People: Tucker Carlson and the Unraveling of the Conservative Mind (Jason Zengerle)
-
+- The Closing of the American Mind: How Higher Education Has Failed Democracy and Impoverished the Souls of Today's Students (Allan Bloom)
 
 {% for post in site.posts %}
 
