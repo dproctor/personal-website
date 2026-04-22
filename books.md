@@ -306,6 +306,7 @@ layout: none
 - Enshittification: Why Everything Suddenly Got Worse and What to Do About It (Cory Doctorow)
 - Hated by All the Right People: Tucker Carlson and the Unraveling of the Conservative Mind (Jason Zengerle)
 - The Closing of the American Mind: How Higher Education Has Failed Democracy and Impoverished the Souls of Today's Students (Allan Bloom)
+- Vigil (George Saunders)
 
 {% for post in site.posts %}
 
