@@ -307,6 +307,7 @@ layout: none
 - Hated by All the Right People: Tucker Carlson and the Unraveling of the Conservative Mind (Jason Zengerle)
 - The Closing of the American Mind: How Higher Education Has Failed Democracy and Impoverished the Souls of Today's Students (Allan Bloom)
 - Vigil (George Saunders)
+- A World Appears: A Journey into Consciousness Hardcover (Michael Pollan)
 
 {% for post in site.posts %}
 
