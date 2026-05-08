@@ -305,9 +305,11 @@ layout: none
 - Red Dawn Over China: How Communism Conquered a Quarter of Humanity (Frank Dikötter)
 - Enshittification: Why Everything Suddenly Got Worse and What to Do About It (Cory Doctorow)
 - Hated by All the Right People: Tucker Carlson and the Unraveling of the Conservative Mind (Jason Zengerle)
+- The Mattering Instinct: How Our Deepest Longing Drives Us and Divides Us (Rebecca Goldstein)
 - The Closing of the American Mind: How Higher Education Has Failed Democracy and Impoverished the Souls of Today's Students (Allan Bloom)
 - Vigil (George Saunders)
 - A World Appears: A Journey into Consciousness Hardcover (Michael Pollan)
+- The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma (Bessel van der Kolk)
 
 {% for post in site.posts %}
 
