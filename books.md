@@ -313,6 +313,7 @@ layout: none
 - Into the Wood Chipper: A Whistleblower's Account of How the Trump Administration Shredded USAID (Nicholas Enrich)
 - Streetwise: Getting to and Through Goldman Sachs (Lloyd Blankfein)
 - The Infinity Machine: Demis Hassabis, DeepMind and the Quest for Superintelligence (Sebastian Mallaby)
+- Mere Christianity (C. S. Lewis)
 
 {% for post in site.posts %}
 
