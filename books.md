@@ -314,6 +314,8 @@ layout: none
 - Streetwise: Getting to and Through Goldman Sachs (Lloyd Blankfein)
 - The Infinity Machine: Demis Hassabis, DeepMind and the Quest for Superintelligence (Sebastian Mallaby)
 - Mere Christianity (C. S. Lewis)
+- This Is Not Propaganda: Adventures in the War Against Reality (Peter Pomerantsev)
+- Magnifica Humanitas: On Safeguarding the Human Person in the Age of Artificial Intelligence (Pope Leo XIV)
 
 {% for post in site.posts %}
 
