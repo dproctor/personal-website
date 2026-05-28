@@ -316,6 +316,7 @@ layout: none
 - Mere Christianity (C. S. Lewis)
 - This Is Not Propaganda: Adventures in the War Against Reality (Peter Pomerantsev)
 - Magnifica Humanitas: On Safeguarding the Human Person in the Age of Artificial Intelligence (Pope Leo XIV)
+- Rerum Novarum: On Capital and Labor (Pope Leo XIII)
 
 {% for post in site.posts %}
 
