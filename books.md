@@ -317,6 +317,7 @@ layout: none
 - This Is Not Propaganda: Adventures in the War Against Reality (Peter Pomerantsev)
 - Magnifica Humanitas: On Safeguarding the Human Person in the Age of Artificial Intelligence (Pope Leo XIV)
 - Rerum Novarum: On Capital and Labor (Pope Leo XIII)
+- The Death of Expertise: The Campaign against Established Knowledge and Why it Matters (Thomas M. Nichols)
 
 {% for post in site.posts %}
 
