@@ -319,6 +319,7 @@ layout: none
 - Rerum Novarum: On Capital and Labor (Pope Leo XIII)
 - The Death of Expertise: The Campaign against Established Knowledge and Why it Matters (Thomas M. Nichols)
 - The MANIAC (Benjamín Labatut)
+  Bonfire of the Murdochs: How the Epic Fight to Control the Last Great Media Dynasty Broke a Family –– and the World (Gabriel Sherman)
 
 {% for post in site.posts %}
 
