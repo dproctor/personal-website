@@ -320,6 +320,7 @@ layout: none
 - The Death of Expertise: The Campaign against Established Knowledge and Why it Matters (Thomas M. Nichols)
 - The MANIAC (Benjamín Labatut)
   Bonfire of the Murdochs: How the Epic Fight to Control the Last Great Media Dynasty Broke a Family –– and the World (Gabriel Sherman)
+  - All We Say: A History of the United States in Fifteen Speeches (Ben Rhodes)
 
 {% for post in site.posts %}
 
