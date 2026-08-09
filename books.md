@@ -323,6 +323,7 @@ layout: none
 - All We Say: A History of the United States in Fifteen Speeches (Ben Rhodes)
 - City on the Edge: Technology, Politics, and the Fight for the Soul of San Francisco (Jonathan Weber)
 - London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth (Patrick Radden Keefe)
+- The Technology Trap: Capital, Labor, and Power in the Age of Automation (Carl Benedikt Frey)
 
 {% for post in site.posts %}
 
