@@ -325,6 +325,7 @@ layout: none
 - London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth (Patrick Radden Keefe)
 - The Technology Trap: Capital, Labor, and Power in the Age of Automation (Carl Benedikt Frey)
 - 1873: The Rothschilds, the First Great Depression, and the Making of the Modern World (Liaquat Ahamed)
+- This Is The Plan: How to End America's Meltdown and Save Democracy (Ben Wikler)
 
 {% for post in site.posts %}
 
