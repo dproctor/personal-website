@@ -326,6 +326,7 @@ layout: none
 - The Technology Trap: Capital, Labor, and Power in the Age of Automation (Carl Benedikt Frey)
 - 1873: The Rothschilds, the First Great Depression, and the Making of the Modern World (Liaquat Ahamed)
 - This Is The Plan: How to End America's Meltdown and Save Democracy (Ben Wikler)
+- United States of Oligarchy: How America's Wealthiest Ally with Dictators, Weaken the U.S., and Destroy Democracy (Casey Michel)
 
 {% for post in site.posts %}
 
