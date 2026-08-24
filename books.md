@@ -95,9 +95,7 @@ layout: none
   - https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 - Engines That Move Markets: Technology Investing from Railroads to the
   Internet and Beyond (Alasdair Nairn)
-- The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger (Marc Levinson)
 - The Right Stuff (Tom Wolfe)
-- The Electric Kool-Aid Acid Test (Tom Wolfe)
 - People, Power, Change: Organizing for Democratic Renewal (Marshall Ganz)
 - Power and Responsibility: a Course of Action for the New Age (Romano Guardini)
 - Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again (Jeffrey E. E. Young, Janet S. Klosko)
@@ -327,6 +325,8 @@ layout: none
 - 1873: The Rothschilds, the First Great Depression, and the Making of the Modern World (Liaquat Ahamed)
 - This Is The Plan: How to End America's Meltdown and Save Democracy (Ben Wikler)
 - United States of Oligarchy: How America's Wealthiest Ally with Dictators, Weaken the U.S., and Destroy Democracy (Casey Michel)
+- The Electric Kool-Aid Acid Test (Tom Wolfe)
+- The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger (Marc Levinson)
 
 {% for post in site.posts %}
 
