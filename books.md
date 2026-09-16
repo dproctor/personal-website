@@ -327,6 +327,8 @@ layout: none
 - United States of Oligarchy: How America's Wealthiest Ally with Dictators, Weaken the U.S., and Destroy Democracy (Casey Michel)
 - The Electric Kool-Aid Acid Test (Tom Wolfe)
 - The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger (Marc Levinson)
+- What Happened to Liberal Democracy?: Remaking a Politics of Shared Prosperity (Daron Acemoglu)
+- The Time Tax: How the Government Wastes Our Time—and How to Fix It (Annie Lowrey)
 
 {% for post in site.posts %}
 
